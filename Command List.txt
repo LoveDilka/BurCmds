@@ -1,0 +1,29 @@
+!!!Command List can be changed any time!!!
+
+---General--- (Universal)
+
+goto [player] -- Teleporting to a player
+speed [value] -- Changing speed
+jumppower/jpower [value] --Changing jump power/height of player
+noclip -- Making a player able walk through walls
+clip -- Making a player unable walk through walls
+loopspeed/lspeed [value] -- Looping speed / Speed will be same after death
+loopjumppower/loopjpower [value] -- Looping jump power / Jump power will be same after death
+ljumppower/ljpower [value] -- Doing same as loopjumppower or loopjpower
+unloopspeed/unlspeed -- Disabling looping speed
+unloopjumppower/unloopjpower -- Disabling looping jump power
+unljumppower/unljpower -- Disabling looping jump power
+fling -- Your character will fling every player that touches you
+unfling -- Your character will be normal as it was
+flingplr -- {BETA} Enabling fling and teleporting your character to a player to fling him
+
+--Military Warfare Tycoon only--- (www.roblox.com/games/62124643/Military-Warfare-Tycoon)
+
+getgun [gunname] -- {BETA} Giving a gun to you from other team's base
+getmobilebadge -- Giving a mobile badge with special mobile knife on any device
+
+---BloxFort only--- (www.roblox.com/games/14819029723/BLOXFORT)
+
+crash [times] -- Crashing a server by many parts method more [times] = more destroyable
+ecrash/scrash [times] -- {BETA} Crashing a server like with crash command but more faster
+ucrash [times] -- {BETA} {W.I.P.} Crashing a server like with crash command but more parts
